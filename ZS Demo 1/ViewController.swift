@@ -21,7 +21,7 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
     @IBAction func sayHello(_ sender: AnyObject) {
-        label.text = "Dupa"
+        label.text = "WIelka Dupa"
         
     }
 }
